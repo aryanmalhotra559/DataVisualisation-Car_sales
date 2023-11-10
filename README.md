@@ -1,2 +1,4 @@
 # DataVisualisation-Car_sales
-visualised car sales of 30 companies using python packages mainly matplotlib
+Author - Aryan Malhotra <br>
+Visualised car sales of 30 companies using python packages mainly matplotlib 
+
